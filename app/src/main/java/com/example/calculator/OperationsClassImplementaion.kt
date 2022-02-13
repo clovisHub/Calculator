@@ -29,7 +29,7 @@ class OperationsClassImplementation : OperationsClass() {
          if(second.toInt() != 0) {
              result = (firstNumber / second).toString()
          } else {
-            Log.e("operation", "You can not divide a number by zero")
+            Log.e("operation", "You can not divide a number by zer.  Please enter a different value")
          }
 
     }
