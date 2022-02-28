@@ -5,6 +5,8 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AppCompatActivity
 import com.example.calculator.databinding.ActivityMainBinding
+// add first
+// add second
 
 class MainActivity : AppCompatActivity() {
 
